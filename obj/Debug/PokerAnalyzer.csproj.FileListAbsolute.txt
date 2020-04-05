@@ -1,0 +1,5 @@
+C:\Users\Sappy-Joy\RiderProjects\PokerAnalyzer\bin\Debug\PokerAnalyzer.exe
+C:\Users\Sappy-Joy\RiderProjects\PokerAnalyzer\bin\Debug\PokerAnalyzer.pdb
+C:\Users\Sappy-Joy\RiderProjects\PokerAnalyzer\obj\Debug\PokerAnalyzer.csprojAssemblyReference.cache
+C:\Users\Sappy-Joy\RiderProjects\PokerAnalyzer\obj\Debug\PokerAnalyzer.exe
+C:\Users\Sappy-Joy\RiderProjects\PokerAnalyzer\obj\Debug\PokerAnalyzer.pdb
